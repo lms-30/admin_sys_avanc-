@@ -53,3 +53,4 @@ pour mettre en place une serveur de virtualisation, certaine prérequis matérie
 Un hyperviseur de type 1 correspond a un système qui s'installe directement sur la couche matérielle du serveur. On parle d'une Hyperviseur **native** .Lorsqu'un Hyperviseur de type 1 est installer sur une machine, la machine ne peut pas servir à autre qu'a faire tourné l'hyperviseur, elle est dédié a cette usage.  
 
 Un hyperviseur de type 2 est un logicielle qui s'installe et s'exécute sur une système d'exploitation qui est déjà en place.On parle un Hyperviseur **hébergé**.
+
